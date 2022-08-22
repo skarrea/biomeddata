@@ -1,0 +1,42 @@
+title: BioMedData LookUp
+
+description: > 
+  RDM guide for life scientists in Norway.
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.18.0
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "project"
+      type: "pages"
+    values:
+      sidebar: about
+  -
+    scope:
+      path: "docs"
+      type: "pages"
+    values:
+      sidebar: documentation
+  -
+    scope:
+      path: "pages/contribute"
+      type: "pages"
+    values:
+      permalink: /:basename
+      sidebar: contribute
+
+theme_variables: 
+  theme_color: 045373
+
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap 
