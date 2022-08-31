@@ -1,4 +1,6 @@
 
+### Schedule: 09:00-15:00
+
 
 ### Session 1: Exemplary DMP Cheat Sheet, 45 minutes
 Summarising answers, and useful links
