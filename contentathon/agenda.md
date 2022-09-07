@@ -12,5 +12,7 @@ Identify what is missing, in a context of RDM and other resources.
 
 ## Session 2: Summary, 15 minutees
 
-### Session 3: Content Organisation?
+## Break
+
+### Session 3: Content Organisation & Action points
 
