@@ -1,11 +1,22 @@
 title: Data Management LookUp
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-description: > 
-  RDM guide for life scientists in Norway.
+topnav_title: Life Sciences RDM LookUp
+# this appears on the top navigation bar next to the home button
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.18.0
+description: "RDM guide for life scientists in Norway"
+# Metadata description of the website
 
-permalink: pretty
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.19.0
+
+theme_variables:
+  theme_color: da366e
+  fonts:
+    - https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+
+exclude:
+  - README.md
+  - /contentathons
 
 defaults:
   - scope:
@@ -32,9 +43,6 @@ defaults:
     values:
       permalink: /:basename
       sidebar: contribute
-
-theme_variables: 
-  theme_color: 045373
 
 plugins:
   - jemoji
