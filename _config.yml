@@ -19,23 +19,13 @@ exclude:
   - /contentathons
 
 defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
   -
     scope:
-      path: "project"
+      path: "pages/about"
       type: "pages"
     values:
+      permalink: /:basename
       sidebar: about
-  -
-    scope:
-      path: "docs"
-      type: "pages"
-    values:
-      sidebar: documentation
   -
     scope:
       path: "pages/contribute"
