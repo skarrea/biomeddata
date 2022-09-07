@@ -10,9 +10,10 @@ Summarising answers, and adding useful links
 ## Session 2: Gap Analysis, 45 minutes
 Identify what is missing, in a context of RDM and other resources.
 
-## Session 2: Summary, 15 minutees
+## Session 2: Summary, 15 minutes
 
 ## Break
 
 ### Session 3: Content Organisation & Action points
 
+### Session 4: Branch out on content creation
