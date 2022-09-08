@@ -7,7 +7,12 @@ columns:
       - url_text: About
         url: /about
   - type: image
+    image_width: 120px
+    width: 2
+    src: ''
+    alt: logo biomeddata
+  - type: image
     image_width: 100px
     width: 1
-    src: 
-    alt:
+    src: 'images/ELIXIR_Norway_logo_469x469.svg'
+    alt: ELIXIR Norway
