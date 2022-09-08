@@ -1,3 +1,4 @@
+<!--Code of Conduct-->
 ---
 title: Code of Conduct
 sidebar: contribute
