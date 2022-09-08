@@ -1,19 +1,27 @@
 
 # Schedule: 09:00-15:00
 
-## Session 1: Exemplary DMP Cheat Sheet, 45 minutes
-Summarising answers, and adding useful links
-### Session 1: Summary, 15 minutes
+## 9:00-9:15 General introduction to the program for the day
 
-## Intro: RDMkit (N), FAIR-Cookbook (F), and openscience.no (K)
+## 9:15-10:00 Session 1: Exemplary DMP Cheat Sheet
+- Summarising main points from exemplary DMPs and adding relevant links
+## 10:00-10:15 Session 1: Summary
 
-## Session 2: Gap Analysis, 45 minutes
-Identify what is missing, in a context of RDM and other resources.
+## 10:15-10:30 Break
 
-## Session 2: Summary, 15 minutes
+## 10:30-10:45 Session 2: Introduction 
+- RDMkit (N), FAIR-Cookbook (F), and openscience.no (K)
 
-## Break
+## 10:45-11:45 Session 2: Gap Analysis
+- Identify what is missing, in a context of RDM and other resources.
 
-### Session 3: Content Organisation & Action points
+## 11:45-12:00: Summary, 15 minutes
 
-### Session 4: Branch out on content creation
+## 12:00 - 12:45 Lunch
+
+## 12:45-13:15 Session 3: Content Organisation & Action points
+
+## 13:15-14:30 Session 4: Branch out on content creation
+(feel free to grab a coffee in the middle of the session)
+
+## 14:30-15:00 Discussion and future plans
